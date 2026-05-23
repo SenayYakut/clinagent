@@ -1,0 +1,15 @@
+# Environment files
+.env
+
+# System files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# App dynamic runtime data
+audit_logs/
+fhir_output/
+uploads/
